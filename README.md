@@ -1,8 +1,7 @@
 ## Hello :)
 
 ### Hey there! 👋 I'm Erik
-- I'm an Information Systems Engineer with a passion for building full-stack web apps, retro gaming, and creating useful stuff — from 3D prints to AI-powered tools
-- Currently diving deep into front-end and back-end dev, with a focus on turning ideas into sleek, functional code 🚀
+- I'm an Information Systems Engineer with a passion for building full-stack web apps, retro gaming, and creating useful stuff — from 3D prints to AI-powered tools. Currently diving deep into front-end and back-end dev, with a focus on turning ideas into sleek, functional code 🚀
 
 ### 🛠️ Tech Stack:
 #### Frontend:
@@ -22,7 +21,7 @@
 
 
 ### 📦 Currently Learning:
--![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge)
 

@@ -32,10 +32,8 @@
 - Multiple projects involving the use of a RPI, such as a NAS, Octoprint, local DB,,,
 
 
-![Erik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yop-me&show_icons=true&theme=radical)
+<!--![Erik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yop-me&show_icons=true&theme=radical)
 
-
-<!--
 **yop-me/yop-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

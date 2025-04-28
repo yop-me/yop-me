@@ -1,6 +1,4 @@
 ## Hello :)
-
-### Hey there! 👋 I'm Erik
 - I'm an Information Systems Engineer with a passion for building full-stack web apps, retro gaming, and creating useful stuff — from 3D prints to AI-powered tools. Currently diving deep into front-end and back-end dev, with a focus on turning ideas into sleek, functional code 🚀
 
 ### 📦 Currently Learning:
